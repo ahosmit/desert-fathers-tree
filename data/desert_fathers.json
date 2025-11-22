@@ -50,7 +50,7 @@
     { "id": 44, "label": "Arsenius the Great", "level": 3, "x": 1400, "image": "images/arsenius.jpg", "bio": "Arsenius (c. 354–450) left the imperial court to become a desert hermit.", "link": "https://en.wikipedia.org/wiki/Arsenius_the_Great" },
 
     { "id": 45, "label": "Peter the Pionite", "level": 4, "x": 400, "image": "images/monk.jpg", "bio": "Peter was a disciple known for his simplicity.", "link": "#" },
-    { "id": 46, "label": "Agathon", "level": 4, "x": 200, "image": "images/agathon.jpg", "bio": "Agathon was famous for his control over his tongue.", "link": "#" },
+    { "id": 46, "label": "Agathon", "level": 4, "x": 200, "image": "images/agathon.jpg", "bio": "Agathon was famous for his control over his tongue.", "link": "BASE_PAGE_PATH/agathon/" },
     { "id": 54, "label": "Abraham", "level": 3.5, "x": 700, "image": "images/monk.jpg", "bio": "Abraham continued the spiritual lineage with dedication.", "link": "#" },
     { "id": 47, "label": "Alexander", "level": 4, "x": 1150, "image": "images/monk.jpg", "bio": "Alexander served Arsenius with great devotion.", "link": "#" },
     { "id": 48, "label": "Zoilus", "level": 4, "x": 1350, "image": "images/monk.jpg", "bio": "Zoilus was another faithful disciple of Arsenius.", "link": "#" },
