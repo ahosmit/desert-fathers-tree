@@ -27,7 +27,7 @@
     { "id": 24, "label": "Joseph", "level": 2, "x": 0, "image": "images/joseph.jpg", "bio": "Joseph practiced silence and unceasing prayer in the desert.", "link": "#" },
     { "id": 25, "label": "Achilles", "level": 1.75, "x": 300, "image": "images/monk.jpg", "bio": "Achilles continued the spiritual tradition of his teachers.", "link": "#" },
     { "id": 26, "label": "Or", "level": 1.75, "x": 550, "image": "images/or.jpg", "bio": "Or was renowned for his hospitality and kindness to visitors.", "link": "#" },
-    { "id": 17, "label": "Theodore", "level": 1.75, "x": 800, "image": "images/monk.jpg", "bio": "Theodore was a devoted monk and successor to Pachomius.", "link": "#" },
+    { "id": 17, "label": "Theodore of Enaton", "level": 1.75, "x": 800, "image": "images/monk.jpg", "bio": "Theodore was a devoted monk and successor to Pachomius.", "link": "#" },
     { "id": 28, "label": "Paul of Tammah", "level": 2, "x": 1050, "image": "images/pauloftammah.jpg", "bio": "Paul of Tammah was a hermit known for his ascetic practices.", "link": "#" },
     { "id": 27, "label": "Paisius the Great", "level": 2, "x": 1300, "image": "images/paisiusthegreat.jpg", "bio": "Pishoy was a beloved monk who lived in the Scetis desert.", "link": "#" },
     { "id": 29, "label": "John the Short", "level": 2, "x": 1500, "image": "images/johntheshort.jpg", "bio": "John the Short (c. 339–405) was famous for his humility and obedience.", "link": "https://en.wikipedia.org/wiki/John_the_Dwarf" },
