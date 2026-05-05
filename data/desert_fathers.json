@@ -59,7 +59,7 @@
     { "id": 51, "label": "Abraham", "level": 5, "x": 150, "image": "images/monk.jpg", "bio": "Abraham continued the spiritual lineage with dedication.", "link": "#" },
     { "id": 52, "label": "Ammoes", "level": 5, "x": 1500, "image": "images/monk.jpg", "bio": "Ammoes was a wise elder in the later desert generation.", "link": "#" },
 
-    { "id": 53, "label": "John", "level": 6, "x": 1450, "image": "images/monk.jpg", "bio": "John carried on the desert tradition into later centuries.", "link": "#" }
+    { "id": 53, "label": "John the Theban", "level": 6, "x": 1450, "image": "images/monk.jpg", "bio": "John carried on the desert tradition into later centuries.", "link": "#" }
   ],
   "edges": [
     { "from": 2, "to": 4 },
