@@ -24,7 +24,7 @@
     { "id": 20, "label": "Onuphrius", "level": 2, "x": -850, "image": "images/onuphrius.jpg", "bio": "Onuphrius was a hermit who lived in complete solitude for sixty years.", "link": "https://en.wikipedia.org/wiki/Onuphrius" },
     { "id": 21, "label": "Moses the Black", "level": 2, "x": -450, "image": "images/moses.jpg", "bio": "Moses the Black (c. 330–405) was a reformed robber who became a great desert father.", "link": "https://en.wikipedia.org/wiki/Moses_the_Black" },
     { "id": 22, "label": "Bessarion the Great", "level": 2, "x": -250, "image": "images/bessarion.jpg", "bio": "Bessarion was known for his wandering life and miraculous works.", "link": "#" },
-    { "id": 24, "label": "Joseph", "level": 2, "x": 0, "image": "images/joseph.jpg", "bio": "Joseph practiced silence and unceasing prayer in the desert.", "link": "#" },
+    { "id": 24, "label": "Joseph of Panephysis", "level": 2, "x": 0, "image": "images/joseph.jpg", "bio": "Joseph practiced silence and unceasing prayer in the desert.", "link": "#" },
     { "id": 25, "label": "Achilles", "level": 1.75, "x": 300, "image": "images/monk.jpg", "bio": "Achilles continued the spiritual tradition of his teachers.", "link": "#" },
     { "id": 26, "label": "Or", "level": 1.75, "x": 550, "image": "images/or.jpg", "bio": "Or was renowned for his hospitality and kindness to visitors.", "link": "#" },
     { "id": 17, "label": "Theodore of Enaton", "level": 1.75, "x": 800, "image": "images/monk.jpg", "bio": "Theodore was a devoted monk and successor to Pachomius.", "link": "#" },
