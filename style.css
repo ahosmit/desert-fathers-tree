@@ -368,31 +368,40 @@ header p {
 /* Timeline Styling */
 /* Updated Timeline Styling */
 .timeline {
-  /* This moves the entire timeline block to the right */
-  margin: 30px 0 30px 40px; 
+  /* 1. This moves the vertical line AND everything inside it to the right */
+  margin-left: 60px; 
+  /* 2. The vertical line itself */
   border-left: 3px solid #d4a373;
-  padding-left: 30px; /* Space between the vertical line and the text */
+  
+  /* 3. Space between the line and the text */
+  padding-left: 30px; 
+  
   position: relative;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
 
 .timeline-item {
   margin-bottom: 30px;
-  position: relative;
+  position: relative; /* Items are now relative to the line */
 }
 
-/* The dot on the line */
 .timeline-item::before {
   content: '';
   position: absolute;
-  /* Adjust this value to align the dot perfectly on the line */
-  /* If you change the .timeline padding-left, you may need to tweak this */
-  left: -38px; 
+  
+  /* 4. This centers the dot exactly on the line. 
+     Since the border is 3px and padding-left is 30px, 
+     -38px to -39px usually hits the sweet spot. */
+  left: -38.5px; 
+  
   top: 6px;
   width: 14px;
   height: 14px;
   background-color: #bc6c25;
   border-radius: 50%;
-  border: 2px solid #fdfaf6; /* Optional: adds a little gap around the dot */
+  border: 2px solid #fdfaf6;
+  z-index: 1; /* Ensures dot sits on top of the line */
 }
 
 .year {
