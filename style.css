@@ -366,32 +366,48 @@ header p {
 }
 
 /* Timeline Styling */
+/* Updated Timeline Styling */
 .timeline {
+  /* This moves the entire timeline block to the right */
+  margin: 30px 0 30px 40px; 
   border-left: 3px solid #d4a373;
-  padding-left: 40px;
-  margin: 20px 0;
-}
-
-.timeline-item {
-  margin-bottom: 20px;
+  padding-left: 30px; /* Space between the vertical line and the text */
   position: relative;
 }
 
+.timeline-item {
+  margin-bottom: 30px;
+  position: relative;
+}
+
+/* The dot on the line */
 .timeline-item::before {
   content: '';
   position: absolute;
-  left: -27px;
-  top: 5px;
-  width: 12px;
-  height: 12px;
+  /* Adjust this value to align the dot perfectly on the line */
+  /* If you change the .timeline padding-left, you may need to tweak this */
+  left: -38px; 
+  top: 6px;
+  width: 14px;
+  height: 14px;
   background-color: #bc6c25;
   border-radius: 50%;
+  border: 2px solid #fdfaf6; /* Optional: adds a little gap around the dot */
 }
 
 .year {
   font-weight: bold;
   color: #bc6c25;
   display: block;
+  font-size: 1.1rem;
+  margin-bottom: 5px;
+}
+
+/* Optional: Make it look better on mobile */
+@media (max-width: 600px) {
+  .timeline {
+    margin-left: 20px; /* Less margin on mobile to save space */
+  }
 }
 
 /* Icons Grid */
