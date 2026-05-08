@@ -9,8 +9,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Georgia', serif;
   background: linear-gradient(135deg, #f5ebe0 0%, #e3d5ca 100%);
   color: #3a2f28;
-  padding-left: 40px;  /* Moves text away from the left edge */
-  padding-right: 40px; /* Moves text away from the right edge */
+
 }
 
 header {
