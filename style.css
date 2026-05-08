@@ -393,7 +393,7 @@ header p {
   /* 4. This centers the dot exactly on the line. 
      Since the border is 3px and padding-left is 30px, 
      -38px to -39px usually hits the sweet spot. */
-  left: -38px; 
+  left: -40px; 
   
   top: 6px;
   width: 14px;
